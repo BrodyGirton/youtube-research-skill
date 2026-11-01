@@ -1,0 +1,2 @@
+# Includes matching EJS challenge-solving components. Install into a private venv.
+yt-dlp[default]
